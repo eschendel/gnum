@@ -1,2 +1,2 @@
 # gnum
-Genome Numerology
+Genome Numerology Project
