@@ -1,2 +1,5 @@
 # gnum
-Genome Numerology Project
+Genome Numerology (GN) Project
+
+# gnum/gnlib
+GN Core Library
